@@ -2,6 +2,8 @@ import streamlit as st
 st.title("Austin Li - Interactive Resume")
 st.write("If you can see this, the app is running.")
 
+pip install matplotlib
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
